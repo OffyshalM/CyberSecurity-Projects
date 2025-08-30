@@ -29,3 +29,20 @@ nmap-dvwa-enum/
 ├─ evidence/ 
 ├─ .gitignore
 └─ LICENSE
+
+
+## Highlights
+
+* HTTP: Apache 2.4.62 (Debian), headers and methods exposed
+* FTP: Anonymous login allowed; vsftpd 3.0.3; plaintext data
+* MySQL: MariaDB; mysql\_native\_password; weak creds in lab; dvwa & information\_schema
+
+## Evidence
+
+See `evidence/` for screenshots and `scans/` for text outputs.
+
+## Legal
+
+Lab only. Do not replicate on systems you do not own.
+
+````
