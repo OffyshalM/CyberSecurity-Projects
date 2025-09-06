@@ -1,0 +1,13 @@
+# Ignore secrets / dumps
+*.pcap
+*.sql
+*.zip
+*.gz
+*.7z
+secrets.txt
+.env
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
