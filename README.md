@@ -1,5 +1,3 @@
-🔐 Cybersecurity & Ethical Hacking Journey
-
 
 👨‍💻 About Me
 
