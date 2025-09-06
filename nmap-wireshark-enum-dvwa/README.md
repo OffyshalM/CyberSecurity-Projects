@@ -24,3 +24,7 @@ dvwa-nmap-wireshark/
 │ └─ run-all.sh
 ├─ .gitignore
 └─ LICENSE
+
+## ⚠️ Legal
+All scans and captures were done **only on my own DVWA lab environment**.  
+Do not run these scans against systems you don’t own or without written permission.
