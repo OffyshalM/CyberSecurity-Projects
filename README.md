@@ -73,4 +73,4 @@ Certifications Roadmap – Security+, CEH, OSCP
 
 💼 LinkedIn:https://www.linkedin.com/in/moses-emmanuel
 
-🌐 Portfolio: https://emmanuel-moses-offytech.vercel.app/
+🌐 Portfolio: https://emmanuel-moses-offytech-portfolio.vercel.app/
