@@ -71,6 +71,6 @@ Certifications Roadmap – Security+, CEH, OSCP
 
 📧 Email: okunrobomoses3@gmail.com
 
-💼 LinkedIn: [your LinkedIn link]
+💼 LinkedIn:https://www.linkedin.com/in/moses-emmanuel
 
-🌐 Portfolio (Coming soon with React + Tailwind 🚀)
+🌐 Portfolio: https://emmanuel-moses-offytech.vercel.app/
